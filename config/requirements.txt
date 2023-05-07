@@ -32,8 +32,6 @@ redis==4.5.4
 requests==2.28.2
 six==1.16.0
 SQLAlchemy==1.4.23
-torch @ file:///D:/installation/pytorch/torch-1.10.0%2Bcu113-cp38-cp38-win_amd64.whl#sha256=969109d6ceef35992fd573f90342a1078399274f5791c060f7a112674bd74e66
-torchvision @ file:///D:/installation/pytorch/torchvision-0.11.0%2Bcu113-cp38-cp38-win_amd64.whl#sha256=d08e661ec65820dcb6502b00acfbb0024c52a3da60441ea4fe76c386d4271c65
 typing_extensions==4.5.0
 tzdata==2023.3
 urllib3==1.26.15
