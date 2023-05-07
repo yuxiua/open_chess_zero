@@ -1,9 +1,9 @@
 # open_chess_zero
 一、硬件环境
 
-1．显卡：gtx1050以上
+1．显卡：最低：gtx1050；推荐：RTX3060；高配：RTX4090/V100/A100/RTX3090
 
-2．系统：windows 7/10/11
+2．系统：windows 10/11
 
  
 
@@ -39,7 +39,9 @@
 
 四、可视化
 
-（1）![ELO趋势](data/image/ELO趋势.png)
+（1）ELO趋势![ELO趋势](data/image/ELO趋势.png)
 
-（1）![ELO趋势](data/image/对局数排名.png)
+（2）对局提交排名![ELO趋势](data/image/对局数排名.png)
+
+
 
