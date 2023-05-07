@@ -43,5 +43,5 @@
 
 （2）对局提交排名![ELO趋势](data/image/对局数排名.png)
 
-
+（3）实时平台：https://finebi.randforest.cn/webroot/decision/link/22RF
 
